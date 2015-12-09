@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/navigation_theme_one"
+            android:checked="true"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/theme_one" />
+        <item
+            android:id="@+id/navigation_theme_two"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/theme_two" />
+        <item
+            android:id="@+id/navigation_theme_three"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/theme_three" />
+        <item
+            android:id="@+id/navigation_theme_four"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/theme_four" />
+        <item
+            android:id="@+id/navigation_theme_five"
+            android:icon="@drawable/ic_menu"
+            android:title="@string/theme_five" />
+    </group>
+
+</menu>

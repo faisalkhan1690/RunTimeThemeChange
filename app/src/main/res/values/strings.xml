@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">RunTimeThemeChange</string>
+    <string name="action_settings">Settings</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="theme_one">Theme One</string>
+    <string name="theme_two">Theme Two</string>
+    <string name="theme_three">Theme Three</string>
+    <string name="theme_four">Theme Four</string>
+    <string name="theme_five">Theme Five</string>
+</resources>
